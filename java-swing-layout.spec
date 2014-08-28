@@ -7,7 +7,7 @@ Release:	1
 License:	LGPL v2
 Group:		Libraries/Java
 # https://svn.java.net/svn/swing-layout~svn/trunk/
-Source0:	http://pkgs.fedoraproject.org/repo/pkgs/swing-layout/%{name}-%{version}-src.zip/dddf900113dfd94658d0d0504cb78a8c/swing-layout-%{version}-src.zip
+Source0:	http://pkgs.fedoraproject.org/repo/pkgs/swing-layout/%{srcname}-%{version}-src.zip/dddf900113dfd94658d0d0504cb78a8c/%{srcname}-%{version}-src.zip
 # Source0-md5:	dddf900113dfd94658d0d0504cb78a8c
 # from http://java.net/jira/secure/attachment/27303/pom.xml
 # use javac target/source 1.5
