@@ -1,5 +1,4 @@
 %define		srcname		swing-layout
-%include	/usr/lib/rpm/macros.java
 Summary:	Natural layout for Swing panels
 Name:		java-%{srcname}
 Version:	1.0.4
