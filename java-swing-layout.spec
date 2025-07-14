@@ -26,8 +26,8 @@ Extensions to Swing to create professional cross platform layout.
 %prep
 %setup -q -n %{srcname}-%{version}
 %undos releaseNotes.txt COPYING nbproject/project.properties
-%patch0 -p0
-%patch1 -p0
+%patch -P0 -p0
+%patch -P1 -p0
 
 %build
 %ant jar
